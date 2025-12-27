@@ -1,0 +1,25 @@
+CANCER DETECTION MODEL - EVALUATION SUMMARY
+======================================================================
+
+TRAINING SET
+----------------------------------------------------------------------
+Accuracy:        0.7712
+ROC AUC:         nan
+Macro Precision: 0.7789
+Macro Recall:    0.7885
+Macro F1:        0.7703
+
+VALIDATION SET
+----------------------------------------------------------------------
+Accuracy:        0.7705
+ROC AUC:         nan
+Macro Precision: 0.7808
+Macro Recall:    0.7888
+Macro F1:        0.7699
+
+TRAINING DETAILS
+----------------------------------------------------------------------
+Total Epochs:    5
+Batch Size:      128
+Learning Rate:   0.001
+Device:          cpu
